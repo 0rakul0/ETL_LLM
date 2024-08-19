@@ -1,0 +1,9 @@
+/data/
+src/E/.env
+.idea/encodings.xml
+.idea/ETL_LLM.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
